@@ -52,7 +52,6 @@ kafka-topics --create \
 ```
 
 ```bash
-```bash
 kafka-topics --create \
   --topic iot-aggregated \
   --bootstrap-server kafka:9092 \
